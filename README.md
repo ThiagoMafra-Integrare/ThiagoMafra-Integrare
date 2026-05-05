@@ -1,5 +1,3 @@
-<h2 align="center">Thiago Mafra</h2>
-
 <p align="center">
   <strong>QA Engineer</strong> · Test Automation &amp; Infrastructure · Playwright + Python · Founder @ <a href="https://integraresites.pro">Integrare Tech</a>
 </p>
