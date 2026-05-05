@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Based in Brazil · PT-BR / EN · Open to remote contracts (Brazil and abroad)
+  Based in Brazil · Open to remote contracts (Brazil and abroad)
 </p>
 
 ---
