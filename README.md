@@ -1,11 +1,11 @@
 <h2 align="center">Thiago Mafra</h2>
 
 <p align="center">
-  <strong>QA Engineer</strong> · Test Automation &amp; Infrastructure · Playwright + Python · Founder @ <a href="https://integraresites.pro">Integrare Tecnologia</a>
+  <strong>QA Engineer</strong> · Test Automation &amp; Infrastructure · Playwright + Python · Founder @ <a href="https://integraresites.pro">Integrare Tech</a>
 </p>
 
 <p align="center">
-  🇧🇷 Based in Brazil · 🌐 PT-BR / EN · Open to remote contracts (Brazil & International)
+  Based in Brazil · PT-BR / EN · Open to remote contracts (Brazil & International)
 </p>
 
 ---
@@ -30,22 +30,22 @@
 
 ### Currently
 
-- 📘 Building open QA playbooks and reliability frameworks for modern applications
-- 🧪 Contributing to open-source testing tools and documentation
-- 🤝 Available for QA contractor engagements — PJ in Brazil and international remote (USD)
+- Building open QA playbooks and reliability frameworks for modern applications
+- Contributing to open-source testing tools and documentation
+- Available for QA contractor engagements — PJ in Brazil and international remote (USD)
 
 ### Connect
 
-📧 sayhello@integrare.tech
+sayhello@integrare.tech
 
 ---
 
 <details>
-<summary><strong>🇧🇷 Em Português</strong></summary>
+<summary><strong>Em Português</strong></summary>
 
 <br>
 
-**Engenheiro de QA** e fundador da [Integrare Tecnologia](https://integraresites.pro). Atuo com automação de testes, infraestrutura de QA e engenharia de qualidade — cobrindo desde a suíte de testes até os pipelines, ambientes e ferramentas que sustentam o processo.
+**Engenheiro de QA** e fundador da [Integrare Tech](https://integraresites.pro). Atuo com automação de testes, infraestrutura de QA e engenharia de qualidade — cobrindo desde a suíte de testes até os pipelines, ambientes e ferramentas que sustentam o processo.
 
 **Áreas de foco**
 
@@ -60,13 +60,3 @@
 - Cursando certificação ISTQB CTFL
 
 </details>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoMafra-Integrare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoMafra-Integrare&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
