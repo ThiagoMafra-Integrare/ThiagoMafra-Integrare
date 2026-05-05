@@ -37,26 +37,3 @@
 ### Connect
 
 sayhello@integrare.tech
-
----
-
-<details>
-<summary><strong>Em Português</strong></summary>
-
-<br>
-
-**Engenheiro de QA** e fundador da [Integrare Tech](https://integraresites.pro). Atuo com automação de testes, infraestrutura de QA e engenharia de qualidade — cobrindo desde a suíte de testes até os pipelines, ambientes e ferramentas que sustentam o processo.
-
-**Áreas de foco**
-
-- Automação E2E, API e performance com integração em CI/CD
-- Infraestrutura de testes — ambientes, pipelines, tooling e DX
-- Estratégia de testes, shift-left e análise de causa-raiz
-
-**Disponibilidade**
-
-- Contratos PJ no Brasil
-- Contratado remoto internacional (USD)
-- Cursando certificação ISTQB CTFL
-
-</details>
