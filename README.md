@@ -1,16 +1,72 @@
-## Hi there 👋
+<h2 align="center">Thiago Mafra</h2>
 
-<!--
-**ThiagoMafra-Integrare/ThiagoMafra-Integrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>QA Engineer</strong> · Test Automation &amp; Infrastructure · Playwright + Python · Founder @ <a href="https://integraresites.pro">Integrare Tecnologia</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🇧🇷 Based in Brazil · 🌐 PT-BR / EN · Open to remote contracts (Brazil & International)
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Focus
+
+- **Test automation** — end-to-end web suites, API testing, performance, CI/CD integration
+- **Test infrastructure** — environments, pipelines, tooling, and developer experience around testing
+- **Quality engineering** — test strategy, shift-left practices, defect root-cause analysis
+
+### Stack
+
+**Automation** · Playwright · Cypress · Selenium · Postman · k6
+**Languages** · Python · TypeScript · JavaScript
+**Pipeline** · GitHub Actions · Docker · Linux
+**Practices** · ISTQB CTFL (in progress) · BDD · Page Object Model · Test Pyramid · Risk-based testing
+
+### Recent open-source contributions
+
+- [zhom/donutbrowser PR #325](https://github.com/zhom/donutbrowser/pull/325) — silent install failure on Debian/RPM packages (libxdo runtime dependency)
+- [campfirein/cipher Issue #263 → PR #296](https://github.com/campfirein/cipher/issues/263) — root cause analysis acknowledged by maintainer; bypass shipped upstream
+
+### Currently
+
+- 📘 Building open QA playbooks and reliability frameworks for modern applications
+- 🧪 Contributing to open-source testing tools and documentation
+- 🤝 Available for QA contractor engagements — PJ in Brazil and international remote (USD)
+
+### Connect
+
+📧 sayhello@integrare.tech
+
+---
+
+<details>
+<summary><strong>🇧🇷 Em Português</strong></summary>
+
+<br>
+
+**Engenheiro de QA** e fundador da [Integrare Tecnologia](https://integraresites.pro). Atuo com automação de testes, infraestrutura de QA e engenharia de qualidade — cobrindo desde a suíte de testes até os pipelines, ambientes e ferramentas que sustentam o processo.
+
+**Áreas de foco**
+
+- Automação E2E, API e performance com integração em CI/CD
+- Infraestrutura de testes — ambientes, pipelines, tooling e DX
+- Estratégia de testes, shift-left e análise de causa-raiz
+
+**Disponibilidade**
+
+- Contratos PJ no Brasil
+- Contratado remoto internacional (USD)
+- Cursando certificação ISTQB CTFL
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoMafra-Integrare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoMafra-Integrare&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
