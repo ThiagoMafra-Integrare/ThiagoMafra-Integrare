@@ -26,6 +26,13 @@
 - [zhom/donutbrowser PR #325](https://github.com/zhom/donutbrowser/pull/325) — silent install failure on Debian/RPM packages (libxdo runtime dependency)
 - [campfirein/cipher Issue #263 → PR #296](https://github.com/campfirein/cipher/issues/263) — root cause analysis acknowledged by maintainer; bypass shipped upstream
 
+### Recent community answers
+
+Marked-as-answer responses on public Q&A:
+
+- [testing-library/user-event #1307](https://github.com/testing-library/user-event/discussions/1307) — *Can I call userEvent.setup() once for an entire test suite?* — input-device state caveat + 2 pragmatic patterns
+- [supabase/supabase #45518](https://github.com/orgs/supabase/discussions/45518) — *Edge function static_files import regression* — root cause + minimal repro + debug ladder
+
 ### Currently
 
 - Building open QA playbooks and reliability frameworks for modern applications
