@@ -21,6 +21,10 @@
 **Pipeline** · GitHub Actions · Docker · Linux
 **Practices** · ISTQB CTFL (in progress) · BDD · Page Object Model · Test Pyramid · Risk-based testing
 
+### Connect
+
+sayhello@integrare.tech
+
 ### Recent open-source contributions
 
 - [zhom/donutbrowser PR #325](https://github.com/zhom/donutbrowser/pull/325) — silent install failure on Debian/RPM packages (libxdo runtime dependency)
@@ -38,7 +42,3 @@ Marked-as-answer responses on public Q&A:
 - Building open QA playbooks and reliability frameworks for modern applications
 - Contributing to open-source testing tools and documentation
 - Available for QA contractor engagements — PJ in Brazil and international remote (USD)
-
-### Connect
-
-sayhello@integrare.tech
