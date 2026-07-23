@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>QA in transition</strong> · Test Automation &amp; Infrastructure · Playwright + Python · Founder @ <a href="https://qa.integrare.tech/">Integrare Tech</a>
+  <strong>QA in transition</strong> · Test Automation · Playwright + Python · Founder @ <a href="https://qa.integrare.tech/">Integrare Tech</a>
 </p>
 
 <p align="center">
