@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>QA Engineer</strong> · Test Automation &amp; Infrastructure · Playwright + Python · Founder @ <a href="https://qa.integrare.tech/">Integrare Tech</a>
+  <strong>QA in transition</strong> · Test Automation &amp; Infrastructure · Playwright + Python · Founder @ <a href="https://qa.integrare.tech/">Integrare Tech</a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 **Automation** · Playwright · Cypress · Selenium · Postman · k6
 **Languages** · Python · TypeScript · JavaScript
 **Pipeline** · GitHub Actions · Docker · Linux
-**Practices** · ISTQB CTFL (in progress) · BDD · Page Object Model · Test Pyramid · Risk-based testing
+**Practices** · ISTQB CTFL foundations · BDD · Page Object Model · Test Pyramid · Risk-based testing
 
 ### Connect
 
